@@ -233,7 +233,7 @@ include_once('header.php');
     <div class="row">
       <div class="col-md-12">
             <!-- Copyright info -->
-            <p class="copy">Copyright &copy; 2014 | <a href="#">IT GEEK HUB</a> </p>
+            <p class="copy">Copyright &copy; 2019| <a href="#">New IT </a> </p>
       </div>
     </div>
   </div>
